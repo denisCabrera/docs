@@ -9,8 +9,13 @@ Tags:
   - 'Methods'
   - 'Arrays'
 CatalogContent:
+<<<<<<< HEAD
   - 'introduction-to-javascript'
   - 'paths/front-end-engineer-career-path'
+=======
+  - "introduction-to-javascript"
+  - "paths/front-end-engineer-career-path"
+>>>>>>> 3b6c4aad66b716b5c9bea19b410369dcc233544d
 ---
 
 The JavaScript method `.slice()` returns a selected portion of an array.
